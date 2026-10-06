@@ -1,0 +1,11 @@
+{
+  "name": "Remix Baluwo Mali Connect",
+  "description": "Application mobile hybride combinant la messagerie instantanée (WhatsApp) et le visionnage/partage de vidéos (YouTube) pour Baluwo Mali.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
